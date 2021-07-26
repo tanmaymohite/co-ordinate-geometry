@@ -1,9 +1,11 @@
 #program of midpoint fomula
 
-print('\nMidpoint formula')
-print('\nx1+x2/2,y1+y2/2')
+print('-----------------------------------------------')
+print('                 Midpoint formula')
+print('-----------------------------------------------')
+print('               x1+x2/2,y1+y2/2')
+print('-----------------------------------------------')
 
-print('\n')
 
 x1=input('Enter the value of x1: ')
 x1=int(x1)

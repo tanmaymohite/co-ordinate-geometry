@@ -1,8 +1,12 @@
 #program of centroid formula
 print('\nprogram of centroid formula')
 
-print('\n(x1+x2+x3)/3,(y1+y2+y3)/3')
-print('\n')
+print('-----------------------------------------------')
+print('                 Centriod formula')
+print('-----------------------------------------------')
+print('               (x1+x2+x3)/3,(y1+y2+y3)/3')
+print('-----------------------------------------------')
+
 
 x1=input('Enter the value of x1: ')
 x1=int(x1)

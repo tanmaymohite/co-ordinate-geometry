@@ -1,6 +1,6 @@
 # Co-ordinate geometry examples
 
-1. Distance formula
+1. [Distance formula](https://en.wikipedia.org/wiki/Distance)
    
    d(x,y) = sqrt(x2-x1)^2+(y2-y1)^2)
    

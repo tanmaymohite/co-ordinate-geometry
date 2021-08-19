@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="my-python-practice" />
+    <orderEntry type="module" module-name="quadratic-equation" />
+    <orderEntry type="module" module-name="carbon-compounds" />
   </component>
 </module>
